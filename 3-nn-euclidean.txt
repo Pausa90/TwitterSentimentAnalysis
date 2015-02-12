@@ -1,0 +1,67 @@
+
+/***********   Statistics 3-nn - Euclidean ****************/
+ConfusionMatrix:
+	TruthPositive	TruthNegative
+SystemPositive	100	43
+SystemNegative	8	32
+
+error rate: 43.04371584699454
+accuracy: 0.48
+precision: 0.6993006993006993
+recall: 0.9259259259259259
+breack-even: 0.8126133126133126
+f1-measure: 0.7968127490039841
+Fails Number: 51
+Fails:
+positive: false, prediction: 4, text: Seth937:Fuck this economy I hate aig and their non loan given asses 
+positive: false, prediction: 4, text: vincentx24x:dear nike stop with the flywire that shit is a waste of science and ugly love @vincentx24x 
+positive: true, prediction: 0, text: Native_01:@Pmillzz lebron IS THE BOSS 
+positive: true, prediction: 0, text: emceet:@wordwhizkid Lebron is a beast ... nobody in the NBA comes even close 
+positive: false, prediction: 4, text: EdwinLValencia:@sekseemess no I 'm not itchy for now Maybe later lol 
+positive: false, prediction: 4, text: kisjoaquin:cant sleep ... my tooth is aching 
+positive: false, prediction: 4, text: Adrigonzo:glad i didnt do Bay to Breakers today it 's 1000 freaking degrees in San Francisco wtf 
+positive: false, prediction: 4, text: KennyTRoland:? Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http:\/\/bit.ly\/2CUIg 
+positive: false, prediction: 4, text: aMild:started to think that Citi is in really deep s & ^ t. Are they gon na survive the turmoil or are they gon na be the next AIG 
+positive: false, prediction: 4, text: Trazor1:ShaunWoo hate 'n on AiG 
+positive: true, prediction: 0, text: mimknits:@YarnThing you will not regret going to see Star Trek It was AWESOME 
+positive: false, prediction: 4, text: renano:annoying new trend on the internets people picking apart michael lewis and malcolm gladwell nobody wants to read that 
+positive: false, prediction: 4, text: CarolineVilas:yahoo answers can be a butt sometimes 
+positive: false, prediction: 4, text: coreysmbpro:RT @SmartChickPDX Was just told that Nike layoffs started today :--LRB- 
+positive: false, prediction: 4, text: BAK3R:Took the Graduate Field Exam for Computer Science today Nothing makes you feel like more of an idiot than lambda calculus 
+positive: false, prediction: 4, text: ckwright:@legalgeekery Yeahhhhhhhhh I would n't really have lived in East Palo Alto if I could have avoided it I guess it 's only for the summer 
+positive: false, prediction: 4, text: luvslikepi:Damn you North Korea http:\/\/bit.ly\/KtMeQ 
+positive: false, prediction: 4, text: utsagrad123:Can we just go ahead and blow North Korea off the map already 
+positive: false, prediction: 4, text: stabotage:North Korea please cease this douchebaggery China does n't even like you anymore http:\/\/bit.ly\/NeHSl 
+positive: false, prediction: 4, text: zed01:Why the hell is Pelosi in freakin China and on whose dime 
+positive: false, prediction: 4, text: funky_old_man:Are YOU burning more cash $ $ $ than Chrysler and GM Stop the financial tsunami Where `` bailout '' means taking a handout 
+positive: false, prediction: 4, text: malcozer:insects have infected my spinach plant :-LRB- 
+positive: false, prediction: 4, text: AntoineTheReaL:wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day . mosquitos are the assholes of insects 
+positive: false, prediction: 4, text: jachshore:Just got mcdonalds goddam those eggs make me sick O yeah Laker up date go lakers Not much of an update Well it 's true so suck it 
+positive: true, prediction: 0, text: MamiYessi:omgg i ohhdee want mcdonalds damn i wonder if its open lol = -RSB- 
+positive: false, prediction: 4, text: jvici0us:History exam studying ugh 
+positive: false, prediction: 4, text: lvlocal:Cheney and Bush are the real culprits - http:\/\/fwix.com\/article\/939496 
+positive: false, prediction: 4, text: QCWofNC:Life?s a bitch and so is Dick Cheney #p 2 #bipart #tlot #tcot #hhrs #GOP #DNC http:\/\/is.gd\/DjyQ 
+positive: false, prediction: 4, text: jepaco:Dick Cheney 's dishonest speech about torture terror and Obama - Fred Kaplan Slate http:\/\/is.gd\/DiHg 
+positive: true, prediction: 0, text: Teaguem2005:LOVING my new Kindle2 Named her Kendra in case u were wondering The `` cookbook '' is THE tool cuz it tells u all the tricks Best gift EVR 
+positive: false, prediction: 4, text: dailysourcedev:The real AIG scandal \/ http:\/\/bit.ly\/b82Px 
+positive: true, prediction: 0, text: failness:Reading `` Bill Clinton Fail - Obama Win ? '' http:\/\/tinyurl.com\/pcyxj7 
+positive: false, prediction: 4, text: kellan38:Kobe is the best in the world not lebron 
+positive: true, prediction: 0, text: Jen2Squared:@faithbabywear Ooooh what model are you getting ??? I have the 40D and LOVE LOVE LOVE LOVE it 
+positive: false, prediction: 4, text: xstaylor:Boarding plane for San Francisco in 1 hour 6 hr flight Blech 
+positive: false, prediction: 4, text: kaaslaw:F \*\*\* up big or go home - AIG 
+positive: true, prediction: 0, text: silentcarto:I highly recommend Malcolm Gladwell 's ` The Tipping Point . ' My next audiobook will probably be one of his as well 
+positive: false, prediction: 4, text: kerrrrrr:Malcolm Gladwell is a genius at tricking people into not realizing he 's a fucking idiot 
+positive: false, prediction: 4, text: bling_crosby:@sportsguy33 hey no offense but malcolm gladwell is a pretenious annoying cunt and he brings you down cant read his shit 
+positive: false, prediction: 4, text: motkeps:@Dommm did comcast fail again ?? 
+positive: false, prediction: 4, text: marekdsi:curses the Twitter API limit 
+positive: false, prediction: 4, text: rdoc420:Arg Twitter API is making me crazy 
+positive: false, prediction: 4, text: laurenornot:@Fraggle312 oh those are awesome i so wish they were n't owned by nike :-LRB- 
+positive: false, prediction: 4, text: one_eighteen:Oooooooh ... North Korea is in troubleeeee http:\/\/bit.ly\/19epAH 
+positive: false, prediction: 4, text: FOLKTALE09:Wat the heck is North Korea doing !!??!! They just conducted powerful nuclear tests Follow the link http:\/\/www.msnbc.msn.com\/id\/30921379 
+positive: false, prediction: 4, text: Mvsic:Listening to Obama ... Friggin North Korea ... 
+positive: false, prediction: 4, text: CFURNAROS:I just realized we three monkeys in the white Obama.Biden , Pelosi Sarah Palin 2012 
+positive: false, prediction: 4, text: Rachael90210:@foxnews Pelosi should stay in China and never come back 
+positive: false, prediction: 4, text: Shell_Suzanne:Studying AGAIN for CPA exam section on Wed - wife & amp son are at the lake :-LRB- 
+positive: false, prediction: 4, text: elllllen:Math review Im going to fail the exam 
+positive: false, prediction: 4, text: LPSsports43:Colin Powell rocked yesterday on CBS Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly 
+

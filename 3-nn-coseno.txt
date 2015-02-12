@@ -1,0 +1,71 @@
+
+/***********   Statistics 3-nn - Coseno Similarity ****************/
+ConfusionMatrix:
+	TruthPositive	TruthNegative
+SystemPositive	86	33
+SystemNegative	22	42
+
+error rate: 33.12021857923497
+accuracy: 0.5182186234817814
+precision: 0.7226890756302521
+recall: 0.7962962962962963
+breack-even: 0.7594926859632742
+f1-measure: 0.7577092511013215
+Fails Number: 55
+Fails:
+positive: true, prediction: 0, text: mandanicole:how can you not love Obama he makes jokes about himself 
+positive: true, prediction: 0, text: theviewfans:House Correspondents dinner was last night whoopi barbara & amp sherri went Obama got a standing ovation 
+positive: false, prediction: 4, text: luv8242:I was talking to this guy last night and he was telling me that he is a die hard Spurs fan He also told me that he hates LeBron James 
+positive: true, prediction: 0, text: Native_01:@Pmillzz lebron IS THE BOSS 
+positive: true, prediction: 0, text: peterlikewhat:lebron and zydrunas are such an awesome duo 
+positive: true, prediction: 0, text: emceet:@wordwhizkid Lebron is a beast ... nobody in the NBA comes even close 
+positive: true, prediction: 0, text: babblyabbie:is going to sleep then on a bike ride :] 
+positive: false, prediction: 4, text: kisjoaquin:cant sleep ... my tooth is aching 
+positive: false, prediction: 4, text: Whacktackular:Blah blah blah same old same old No plans today going back to sleep I guess 
+positive: false, prediction: 4, text: Adrigonzo:glad i didnt do Bay to Breakers today it 's 1000 freaking degrees in San Francisco wtf 
+positive: false, prediction: 4, text: KennyTRoland:? Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http:\/\/bit.ly\/2CUIg 
+positive: false, prediction: 4, text: aMild:started to think that Citi is in really deep s & ^ t. Are they gon na survive the turmoil or are they gon na be the next AIG 
+positive: false, prediction: 4, text: Trazor1:ShaunWoo hate 'n on AiG 
+positive: true, prediction: 0, text: mimknits:@YarnThing you will not regret going to see Star Trek It was AWESOME 
+positive: false, prediction: 4, text: renano:annoying new trend on the internets people picking apart michael lewis and malcolm gladwell nobody wants to read that 
+positive: true, prediction: 0, text: mikearosso:Malcolm Gladwell might be my new man crush 
+positive: false, prediction: 4, text: CarolineVilas:yahoo answers can be a butt sometimes 
+positive: false, prediction: 4, text: BAK3R:Took the Graduate Field Exam for Computer Science today Nothing makes you feel like more of an idiot than lambda calculus 
+positive: true, prediction: 0, text: souleaterjh:@accannis @edog1203 Great Stanford course Thanks for making it available to the public Really helpful and informative for starting off 
+positive: false, prediction: 4, text: utsagrad123:Can we just go ahead and blow North Korea off the map already 
+positive: false, prediction: 4, text: stabotage:North Korea please cease this douchebaggery China does n't even like you anymore http:\/\/bit.ly\/NeHSl 
+positive: false, prediction: 4, text: zed01:Why the hell is Pelosi in freakin China and on whose dime 
+positive: false, prediction: 4, text: malcozer:insects have infected my spinach plant :-LRB- 
+positive: true, prediction: 0, text: MamiYessi:omgg i ohhdee want mcdonalds damn i wonder if its open lol = -RSB- 
+positive: false, prediction: 4, text: jvici0us:History exam studying ugh 
+positive: false, prediction: 4, text: QCWofNC:Life?s a bitch and so is Dick Cheney #p 2 #bipart #tlot #tcot #hhrs #GOP #DNC http:\/\/is.gd\/DjyQ 
+positive: false, prediction: 4, text: jepaco:Dick Cheney 's dishonest speech about torture terror and Obama - Fred Kaplan Slate http:\/\/is.gd\/DiHg 
+positive: false, prediction: 4, text: dailysourcedev:The real AIG scandal \/ http:\/\/bit.ly\/b82Px 
+positive: true, prediction: 0, text: failness:Reading `` Bill Clinton Fail - Obama Win ? '' http:\/\/tinyurl.com\/pcyxj7 
+positive: false, prediction: 4, text: chelseabigass:LEbron james got in a car accident i guess . . just heard it on evening news ... wow i cant believe it . . will he be ok http:\/\/twtad.com\/69750 
+positive: true, prediction: 0, text: IAmNoeAngel:@uscsports21 LeBron is a monsta and he is only 24 SMH The world ai n't ready 
+positive: false, prediction: 4, text: kellan38:Kobe is the best in the world not lebron 
+positive: true, prediction: 0, text: jsincere150:@asherroth World Cup 2010 Access ?? Damn that 's a good look 
+positive: true, prediction: 0, text: SPReviews:@criticalpath Such an awesome idea - the continual learning program with a Kindle2 http:\/\/bit.ly\/1ZLfF 
+positive: true, prediction: 0, text: Jen2Squared:@faithbabywear Ooooh what model are you getting ??? I have the 40D and LOVE LOVE LOVE LOVE it 
+positive: true, prediction: 0, text: BillVick:http:\/\/is.gd\/ArUJ Good video from Google on using search options 
+positive: false, prediction: 4, text: xstaylor:Boarding plane for San Francisco in 1 hour 6 hr flight Blech 
+positive: false, prediction: 4, text: kaaslaw:F \*\*\* up big or go home - AIG 
+positive: true, prediction: 0, text: Pgobb:Went to see the Star Trek movie last night Very satisfying 
+positive: false, prediction: 4, text: kerrrrrr:Malcolm Gladwell is a genius at tricking people into not realizing he 's a fucking idiot 
+positive: false, prediction: 4, text: bling_crosby:@sportsguy33 hey no offense but malcolm gladwell is a pretenious annoying cunt and he brings you down cant read his shit 
+positive: true, prediction: 0, text: ripplemdk:RT @clashmore http:\/\/bit.ly\/SOYv7 Great article by Malcolm Gladwell 
+positive: false, prediction: 4, text: motkeps:@Dommm did comcast fail again ?? 
+positive: false, prediction: 4, text: laurenornot:@Fraggle312 oh those are awesome i so wish they were n't owned by nike :-LRB- 
+positive: true, prediction: 0, text: joelgoodman:@jonduenas @robynlyn just got us a 50D for the office :D 
+positive: true, prediction: 0, text: tylerlin:@ atebits I just finished watching your Stanford iPhone Class session I really appreciate it You Rock 
+positive: true, prediction: 0, text: Alexi_G:Will the Lakers kick the Nuggets ass tonight 
+positive: false, prediction: 4, text: one_eighteen:Oooooooh ... North Korea is in troubleeeee http:\/\/bit.ly\/19epAH 
+positive: false, prediction: 4, text: FOLKTALE09:Wat the heck is North Korea doing !!??!! They just conducted powerful nuclear tests Follow the link http:\/\/www.msnbc.msn.com\/id\/30921379 
+positive: false, prediction: 4, text: Mvsic:Listening to Obama ... Friggin North Korea ... 
+positive: false, prediction: 4, text: CFURNAROS:I just realized we three monkeys in the white Obama.Biden , Pelosi Sarah Palin 2012 
+positive: false, prediction: 4, text: Rachael90210:@foxnews Pelosi should stay in China and never come back 
+positive: true, prediction: 0, text: MamiYessi:AHH YES LOL IMA TELL MY HUBBY TO GO GET ME SUM MCDONALDS = -RSB- 
+positive: false, prediction: 4, text: elllllen:Math review Im going to fail the exam 
+positive: false, prediction: 4, text: LPSsports43:Colin Powell rocked yesterday on CBS Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly 
+
